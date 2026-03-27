@@ -5,6 +5,7 @@
 ### Nome do Projeto
 `Dose Certa`
 
+
 ### Equipe
 | Nome | GitHub | Papel Principal |
 |------|--------|-----------------|
@@ -63,7 +64,7 @@ O **Dose Certa** é um aplicativo de celular feito para ajudar as pessoas a toma
 ### 🟢 PREPARAÇÃO
 - **Semana 1-2:** Objetivo: começar perfeito (GitHub + planejamento)
   - [x] Repositório, Estruturas e Commits base.
-  - [ ] Wireframes (Tela de login, principal, cadastro, histórico).
+  - [x] Wireframes (Tela de login, principal, cadastro, histórico).
 
 ### 🟡 PREPARAÇÃO TÉCNICA
 - **Semana 3-4:** Objetivo: App rodando ("Hello World")
@@ -80,6 +81,25 @@ O **Dose Certa** é um aplicativo de celular feito para ajudar as pessoas a toma
 - **Semana 9-10:** UX/UI e Lembretes (Interface limpa, push notifications simuladas e validações visuais).
 - **Semana 11:** Profissionalismo (Caça aos bugs, code review de pasta `services/`, documentação fina no README).
 - **Semana 12:** Apresentação (Pitch do Problema -> Solução -> Demo Real).
+
+---
+
+## 🖼️ Protótipo (Wireframes)
+
+Para garantir a melhor experiência do usuário e acessibilidade, os seguintes wireframes foram desenhados:
+
+### 1. Login e Autenticação
+![Login](./Login.png)
+
+### 2. Dashboard Principal
+![Home](./Home.png)
+
+### 3. Histórico de Medicamentos
+![Histórico](./Histórico.png)
+
+### 4. Cadastro de Novo Medicamento
+![Cadastro](./Cadastro.png)
+
 
 ---
 
