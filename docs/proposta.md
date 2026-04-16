@@ -1,5 +1,21 @@
 # 📝 Proposta de Projeto: Dose Certa
 
+---
+
+## ✅ Progresso Atual
+
+### Etapa Técnica Concluída (Semana 3-4)
+- ✅ **Ambiente configurado:** Node.js e Expo instalados
+- ✅ **Projeto Expo criado:** Template com tabs navigation configurado
+- ✅ **Firebase integrado:** Biblioteca instalada e configurada
+- ✅ **Auth Guard implementado:** Proteção global de rotas (usuários deslogados redirecionados para `/auth/login`)
+- ✅ **Estrutura de serviços:** Pasta `services/` com `firebaseConfig.ts` centralizado
+- ⏳ **Próximo passo:** Criar tela de login e implementar autenticação Firebase
+
+**Nota importante:** O arquivo `.env.local` na raiz do projeto `mobile/` deve conter as credenciais reais do Firebase para funcionamento completo.
+
+---
+
 ## 📋 Informações Básicas
 
 ### Nome do Projeto
