@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "expo": "^55.0.17",
+    "firebase": "^12.12.1",
+    "react-dom": "19.2.0",
+    "react-native-web": "^0.21.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "@types/react": "~19.2.10",
+    "typescript": "~5.9.2"
+  }
+}
